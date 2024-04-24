@@ -1,0 +1,79 @@
+[ {
+          "id": "1",
+          "name": "4 bedroom duplex",
+          "price": "220,000 per annum",
+          "description":
+            "This is a 4-bedroom apartment in Abayi local government . This property is in close proximity with",
+            "location":"Abayi",
+          "imageUrl":
+            "/images/Leaf nature backgrounds pattern illustration plant backdrop design abstract a vibrant green nature wallpaper illustration generative ai.png",
+          "proximity": ["Mount Zion hospital","St Micheal's School", "Janes Smart World"]
+        }, {
+          "id": "2",
+          "name": "4 bedroom duplex",
+          "price": "220,000 per annum",
+          "description":
+            "This is a 4-bedroom apartment in Abayi local government . This property is in close proximity with",
+            "location":"Abayi",
+          "imageUrl": "/images/New new.png",
+          "proximity": ["Mount Zion hospital","St Micheal's School", "Janes Smart World"]
+        }, {
+          "id": "3",
+          "name": "4 bedroom duplex",
+          "price": "220,000 per annum",
+          "description":
+            "This is a 4-bedroom apartment in Abayi local government . This property is in close proximity with",
+            "location":"Abayi",
+          "imageUrl":
+          "/images/Leaf nature backgrounds pattern illustration plant backdrop design abstract a vibrant green nature wallpaper illustration generative ai.png",
+          "proximity": ["Mount Zion hospital","St Micheal's School", "Janes Smart World"]
+        }, {
+          "id": "4",
+          "name": "4 bedroom duplex",
+          "price": "220,000 per annum",
+          "description":
+            "This is a 4-bedroom apartment in Abayi local government . This property is in close proximity with",
+            "location":"Abayi",
+          "imageUrl": "/images/New new.png",
+          "proximity": ["Mount Zion hospital","St Micheal's School", "Janes Smart World"]
+        } ,{
+          "id": "5",
+          "name": "4 bedroom duplex",
+          "price": "220,000 per annum",
+          "description":
+            "This is a 4-bedroom apartment in Abayi local government . This property is in close proximity with",
+            "location":"Abayi",
+          "imageUrl":
+            "/images/Leaf nature backgrounds pattern illustration plant backdrop design abstract a vibrant green nature wallpaper illustration generative ai.png",
+          "proximity": ["Mount Zion hospital","St Micheal's School", "Janes Smart World"]
+        }, {
+          "id": "6",
+          "name": "4 bedroom duplex",
+          "price": "220,000 per annum",
+          "description":
+            "This is a 4-bedroom apartment in Abayi local government . This property is in close proximity with",
+            "location":"Abayi",
+          "imageUrl": "/images/New new.png",
+          "proximity": ["Mount Zion hospital","St Micheal's School", "Janes Smart World"]
+        }, {
+          "id": "7",
+          "name": "4 bedroom duplex",
+          "price": "220,000 per annum",
+          "description":
+            "This is a 4-bedroom apartment in Abayi local government . This property is in close proximity with",
+            "location":"Abayi",
+          "imageUrl":
+            "/images/Leaf nature backgrounds pattern illustration plant backdrop design abstract a vibrant green nature wallpaper illustration generative ai.png",
+          "proximity": ["Mount Zion hospital","St Micheal's School", "Janes Smart World"]
+  },
+  {
+          "id": "8",
+          "name": "4 bedroom duplex",
+          "price": "220,000 per annum",
+          "description":
+            "This is a 4-bedroom apartment in Abayi local government . This property is in close proximity with",
+          "location": "Abayi",
+          "imageUrl": "/images/New new.png",
+          "proximity": ["Mount Zion hospital", "St Micheal's School", "Janes Smart World"]
+        }
+      ]
